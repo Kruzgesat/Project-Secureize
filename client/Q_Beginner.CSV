@@ -1,0 +1,50 @@
+﻿1,"What does the ""S"" stand for in HTTPS?",Secure,Server,Software,Search,A
+2,Which of the following is a common method of authentication using something you know?,Fingerprint,Password,Smart card,Retina scan,B
+3,What should you do if you receive a suspicious email with an attachment from an unknown sender?,Open the attachment to see what it contains,Delete the email immediately,Reply to the sender and ask for more information,Forward the email to all your contacts,B
+4,Which of the following is a common type of malware that encrypts your files and demands a ransom for decryption?,Virus,Worm,Trojan,Ransomware,D
+5,What is the practice of tricking individuals into revealing their personal or confidential information through deceptive emails or websites?,Hacking,Phishing,Firewall,Encryption,B
+6,Which of the following is NOT a recommended practice for creating strong passwords?,Using a combination of uppercase and lowercase letters,"Using easily guessable words like ""password"" or ""123456""",Including numbers and special characters,Making the password at least 12 characters long,B
+7,What is a firewall used for in cyber security?,Protecting against physical break-ins,Blocking unwanted network traffic,Encrypting sensitive data,Scanning for malware on your computer,B
+8,Which of the following is a type of two-factor authentication (2FA)?,Something you know and something you are,Something you have and something you forget,Something you want and something you share,Something you see and something you taste,A
+9,What is a DDoS attack?,A type of computer virus,A method of encrypting data,An attack that floods a network or website with traffic to make it unavailable,A type of firewall,C
+10,What is the primary purpose of a virtual private network (VPN)?,Hiding your computer's location,Preventing all incoming network traffic,Speeding up your internet connection,Installing antivirus software,A
+11,Which of the following is an example of a strong password?,12345,Password123,Tr0ub@!nG1,MyNameIsJohn,C
+12,What is the most secure way to dispose of a paper document containing sensitive information?,Throw it in the regular trash,Recycle it,Shred it,Burn it,C
+13,What is the purpose of regularly updating your computer's operating system and software?,To slow down your computer,To save disk space,To add new features,To fix security vulnerabilities,D
+14,What is the term for a program that appears to be legitimate but actually carries out harmful actions on a computer?,Anti-virus,Firewall,Spyware,Legitware,C
+15,Which of the following is NOT a common social engineering technique?,Phishing,Shoulder surfing,Installing antivirus software,Tailgating,C
+16,What is the main purpose of a CAPTCHA?,To verify the identity of a user,To block all incoming network traffic,To prove that a user is not a robot,To encrypt sensitive data,C
+17,"What does the term ""zero-day vulnerability"" refer to in cyber security?",A vulnerability that has been known for a long time,A vulnerability that has never been exploited,A vulnerability that has been patched,A vulnerability that is exploited before a patch is available,D
+18,Which of the following is a best practice for securing your smartphone?,Sharing your passcode with friends,Installing apps from unknown sources,Enabling device encryption,Never updating your phone's software,C
+19,What is the purpose of a password manager?,To help you remember your passwords,To make your passwords more predictable,To share your passwords with others,To store your passwords in plain text,A
+20,What is the term for a program that replicates itself and spreads to other computers without user intervention?,Virus,Firewall,Phishing,Encryption,A
+21,Which of the following is a common type of biometric authentication?,PIN,Fingerprint,Password,CAPTCHA,B
+22,What is the first line of defense against malware and other cyber threats?,Antivirus Software,Firewall,Uswer awareness and education,Two-Factor Authentication,C
+23,What is the purpose of encryption in cyber security?,To make data easier to access,To protect data from unauthorized access,To slow down internet speed,To delete sensitive data,B
+24,What is the term for the process of guessing a password by trying many different combinations?,Hacking,Cracking,Phishing,Encrypting,B
+25,Which of the following is NOT a recommended security practice when using public Wi-Fi networks?,Using a VPN,Sharing your personal information with strangers,Avoiding sensitive transactions,Verifying the network's legitimacy,B
+26,"What does the term ""malware"" stand for?",Malicious software,Master software,Maximum security software,Minimal software,A
+27,What is the main purpose of a software update?,To add new features,To make the software run slower,To fix security vulnerabilities and bugs,To delete the software,C
+28,What is the term for a program that monitors and records keystrokes on a computer?,Firewall,Antivirus,Keylogger,Spyware,C
+29,What is a common method for protecting your online accounts from unauthorized access,Sharing your passwords with friends,Using the same password for all accounts,Enabling two-factor authentication,Writing your passwords on a sticky note,C
+30,What should you do if you receive a suspicious link in an email or message?,Click on the link to see where it goes,Report it as spam and delete it,Share it with your friends,Reply to the sender and ask for more information,B
+31,Which of the following is a common method of protecting your computer from physical theft?,Installing antivirus software,Using a strong password,Encrypting your hard drive,Using a cable lock,D
+32,What is the term for a set of security rules and policies that control access to a network or system?,Firewall,Antivirus,Encryption,Access control,D
+33,What is the purpose of a security audit?,To hack into a computer system,To identify vulnerabilities and weaknesses in a system,To install antivirus software,To encrypt sensitive data,B
+34,What is the primary goal of a cyber attacker?,To improve cybersecurity,To gain unauthorized access or steal data,To help users protect their passwords,To report security vulnerabilities,B
+35,"What does ""phishing"" typically involve?",Catching fish in the ocean,Sending malicious emails to trick recipients into revealing personal information,Installing antivirus software,Encrypting data,B
+36,What is the purpose of a data breach notification law?,To encourage data breaches,To require organizations to notify individuals when their personal data is compromised,To protect sensitive data,To ban the use of encryption,B
+37,What is the term for a practice that involves using multiple layers of security to protect against different types of threats?,Multi-factor authentication,Single-factor authentication,Password reuse,Hacking,A
+38,Which of the following is NOT a common type of cyber attack?,Phishing,Ransomware,Firewall,DDoS attack,C
+39,What is the purpose of a security policy in an organization?,To encourage employees to share their passwords,To establish guidelines and rules for protecting information and systems,To make data more accessible to everyone,To delete sensitive data,B
+40,Which of the following is a common method for protecting your smartphone from malware?,Installing apps from unknown sources,Ignoring software updates,Using a screen protector,Downloading apps from official app stores,D
+41,What is the term for a program that replicates itself and spreads to other computers through infected files?,Virus,Firewall,Encryption,Phishing,A
+42,What is the primary purpose of a spam filter?,To send spam emails to your inbox,To block unwanted and unsolicited emails,To encrypt email messages,To protect your computer from viruses,B
+43,What is the term for the practice of tricking individuals into revealing their passwords by pretending to be a legitimate organization?,Phishing,Firewall,Encryption,Antivirus,A
+44,Which of the following is a common method of securing sensitive data on a computer or storage device?,Leaving the data unprotected,Encrypting the data,Sharing the data with others,Deleting the data,B
+45,What is the purpose of a security awareness training program in an organization?,To teach employees how to hack into computer systems,To educate employees about cybersecurity best practices,To encourage employees to share their passwords,To disable security features on computers,B
+46,Which of the following is a common method of protecting your email account from unauthorized access?,Using the same password for all accounts,Enabling two-factor authentication,Sharing your password with friends,Posting your password on social media,B
+47,What is the purpose of a security patch?,To create new security vulnerabilities,To fix security vulnerabilities in software,To slow down computer performance,To delete sensitive data,B
+48,What is the term for the process of making data unreadable to unauthorized users by converting it into a coded format?,Phishing,Firewall,Encryption,Hacking,C
+49,Which of the following is a common method of protecting your computer from malware?,Sharing your passwords with strangers,Installing software from untrusted sources,Keeping your operating system and antivirus software up to date,Ignoring software updates,C
+50,What should you do if you suspect that your computer has been infected with malware?,Do nothing and hope it goes away,Run a full system scan with antivirus software,Share your computer with others,Install more malware to fight the existing malware,B
